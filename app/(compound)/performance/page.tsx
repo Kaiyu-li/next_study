@@ -9,7 +9,8 @@ export default function page() {
     return(
 
         <div>
-            <Hero imgUrl={performanceSrc} altTxt="Performance" content="welcome to Performance"/>
+            <Hero imgUrl={performanceSrc} altTxt="Performance" content="我是周教授的小跟班
+           "/>
         </div>
     )
 

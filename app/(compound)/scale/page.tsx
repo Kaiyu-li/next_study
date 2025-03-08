@@ -9,7 +9,7 @@ export default function page() {
     return(
 
         <div>
-            <Hero imgUrl={scaleSrc} altTxt="Scale" content="welcome to Scale"/>
+            <Hero imgUrl={scaleSrc} altTxt="Scale" content="听老婆的话会发达"/>
         </div>
     )
 

@@ -9,7 +9,7 @@ export default function page() {
     return(
 
         <div>
-            <Hero imgUrl={reliabilitySrc} altTxt="Reliability" content="welcome to Reliability"/>
+            <Hero imgUrl={reliabilitySrc} altTxt="Reliability" content="周教授是我的大领导"/>
         </div>
     )
 
