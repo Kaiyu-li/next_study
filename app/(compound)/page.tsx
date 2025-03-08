@@ -6,7 +6,7 @@ export default function page() {
 
     return (
 
-        <Hero imgUrl={homeSrc} altTxt="home" content="我叫周宗莉"/>
+        <Hero imgUrl={homeSrc} altTxt="home" content="祝我家宝贝顺利QE"/>
     );
 
 
